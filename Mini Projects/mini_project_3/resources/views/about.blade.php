@@ -5,4 +5,4 @@ h1{
 }
 </style>
 <h1> ⟦ Welcome to the About page ⟧</h1>
-<p>Hello, my name is Rothana. This is about Mini Project 3. I love music♪</p>
+<p> i like animals </p>
